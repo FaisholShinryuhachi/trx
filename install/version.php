@@ -1,3 +1,3 @@
 <?php 
 define('SCRIPT_VERSION', ''); 
-define('CODECANYON_LICENCE', 'nullmasterinbabiato'); 
+define('CODECANYON_LICENCE', ''); 

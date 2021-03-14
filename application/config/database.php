@@ -1,8 +1,8 @@
 <?php if ( ! defined("BASEPATH")) exit("No direct script access allowed");
 $db["default"]["hostname"] = "localhost";
-$db["default"]["username"] = "mahg1294_trxemitpos";
-$db["default"]["password"] = 'emitpos1234';
-$db["default"]["database"] = "mahg1294_trxemitpos";
+$db["default"]["username"] = "root";
+$db["default"]["password"] = '';
+$db["default"]["database"] = "trx";
 $db["default"]["dbport"] = "3306";
 $db["default"]["dbdriver"] = "mysqli";
 $db["default"]["dbprefix"] = "";

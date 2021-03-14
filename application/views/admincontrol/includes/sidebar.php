@@ -61,7 +61,7 @@
         <!--<li><a href="<?php echo base_url();?>integration/logs"><i class="mdi mdi-menu-right"></i><?= __('admin.sub_menu_integration_logs') ?></a></li>-->
         <li><a href="<?php echo base_url();?>integration/integration_category"><i class="mdi mdi-menu-right"></i><?= __('admin.integration_category') ?></a></li>
         <li><a href="<?php echo base_url();?>admincontrol/market_tools_setting"><i class="mdi mdi-menu-right"></i><?= __('admin.admincontrol_market_tools_setting') ?></a></li>
-        <li><a href="<?php echo base_url();?>integration/" class="waves-effect"><i class="mdi mdi-menu-right"></i><?= __('admin.sub_menu_integration') ?></a></li>
+        <!-- <li><a href="<?php echo base_url();?>integration/" class="waves-effect"><i class="mdi mdi-menu-right"></i><?= __('admin.sub_menu_integration') ?></a></li> -->
         </ul>
         </li>
       

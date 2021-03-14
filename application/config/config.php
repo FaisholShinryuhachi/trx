@@ -14,7 +14,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 | path to your installation.
 |
 */
-$config['base_url']  = 'http://trx.emitpos.com';/*
+$config['base_url']  = 'http://localhost/trx';/*
 /*
 /*
 |--------------------------------------------------------------------------
